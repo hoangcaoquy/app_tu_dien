@@ -1,0 +1,1475 @@
+[
+    {
+      "english": "hello",
+      "vietnamese": "xin chào"
+    },
+    {
+      "english": "goodbye",
+      "vietnamese": "tạm biệt"
+    },
+    {
+      "english": "thank you",
+      "vietnamese": "cảm ơn bạn"
+    },
+    {
+      "english": "please",
+      "vietnamese": "làm ơn"
+    },
+    {
+      "english": "yes",
+      "vietnamese": "vâng"
+    },
+    {
+      "english": "no",
+      "vietnamese": "không"
+    },
+    {
+      "english": "sorry",
+      "vietnamese": "xin lỗi"
+    },
+    {
+      "english": "excuse me",
+      "vietnamese": "xin lỗi"
+    },
+    {
+      "english": "good",
+      "vietnamese": "tốt"
+    },
+    {
+      "english": "bad",
+      "vietnamese": "xấu"
+    },
+    {
+      "english": "big",
+      "vietnamese": "lớn"
+    },
+    {
+      "english": "small",
+      "vietnamese": "nhỏ"
+    },
+    {
+      "english": "hot",
+      "vietnamese": "nóng"
+    },
+    {
+      "english": "cold",
+      "vietnamese": "lạnh"
+    },
+    {
+      "english": "happy",
+      "vietnamese": "vui"
+    },
+    {
+      "english": "sad",
+      "vietnamese": "buồn"
+    },
+    {
+      "english": "love",
+      "vietnamese": "yêu"
+    },
+    {
+      "english": "hate",
+      "vietnamese": "ghét"
+    },
+    {
+      "english": "beautiful",
+      "vietnamese": "đẹp"
+    },
+    {
+      "english": "ugly",
+      "vietnamese": "xấu xí"
+    },
+    {
+      "english": "friend",
+      "vietnamese": "bạn"
+    },
+    {
+      "english": "family",
+      "vietnamese": "gia đình"
+    },
+    {
+      "english": "food",
+      "vietnamese": "đồ ăn"
+    },
+    {
+      "english": "water",
+      "vietnamese": "nước"
+    },
+    {
+      "english": "air",
+      "vietnamese": "không khí"
+    },
+    {
+      "english": "fire",
+      "vietnamese": "lửa"
+    },
+    {
+      "english": "earth",
+      "vietnamese": "đất"
+    },
+    {
+      "english": "sun",
+      "vietnamese": "mặt trời"
+    },
+    {
+      "english": "moon",
+      "vietnamese": "mặt trăng"
+    },
+    {
+      "english": "star",
+      "vietnamese": "ngôi sao"
+    },
+    {
+      "english": "time",
+      "vietnamese": "thời gian"
+    },
+    {
+      "english": "day",
+      "vietnamese": "ngày"
+    },
+    {
+      "english": "night",
+      "vietnamese": "đêm"
+    },
+    {
+      "english": "week",
+      "vietnamese": "tuần"
+    },
+    {
+      "english": "month",
+      "vietnamese": "tháng"
+    },
+    {
+      "english": "year",
+      "vietnamese": "năm"
+    },
+    {
+      "english": "today",
+      "vietnamese": "hôm nay"
+    },
+    {
+      "english": "tomorrow",
+      "vietnamese": "ngày mai"
+    },
+    {
+      "english": "yesterday",
+      "vietnamese": "hôm qua"
+    },
+    {
+      "english": "money",
+      "vietnamese": "tiền"
+    },
+    {
+      "english": "work",
+      "vietnamese": "công việc"
+    },
+    {
+      "english": "job",
+      "vietnamese": "công việc"
+    },
+    {
+      "english": "school",
+      "vietnamese": "trường học"
+    },
+    {
+    "english": "teacher",
+    "vietnamese": "giáo viên"
+  },
+  {
+    "english": "student",
+    "vietnamese": "học sinh"
+  },
+  {
+    "english": "book",
+    "vietnamese": "sách"
+  },
+  {
+    "english": "pen",
+    "vietnamese": "bút"
+  },
+  {
+    "english": "paper",
+    "vietnamese": "giấy"
+  },
+  {
+    "english": "computer",
+    "vietnamese": "máy tính"
+  },
+  {
+    "english": "phone",
+    "vietnamese": "điện thoại"
+  },
+  {
+    "english": "car",
+    "vietnamese": "xe hơi"
+  },
+  {
+    "english": "bicycle",
+    "vietnamese": "xe đạp"
+  },
+  {
+    "english": "house",
+    "vietnamese": "nhà"
+  },
+  {
+    "english": "street",
+    "vietnamese": "đường"
+  },
+  {
+    "english": "city",
+    "vietnamese": "thành phố"
+  },
+  {
+    "english": "country",
+    "vietnamese": "quốc gia"
+  },
+  {
+    "english": "world",
+    "vietnamese": "thế giới"
+  },
+  {
+    "english": "music",
+    "vietnamese": "nhạc"
+  },
+  {
+    "english": "art",
+    "vietnamese": "nghệ thuật"
+  },
+  {
+    "english": "film",
+    "vietnamese": "phim"
+  },
+  {
+    "english": "game",
+    "vietnamese": "trò chơi"
+  },
+  {
+    "english": "sport",
+    "vietnamese": "thể thao"
+  },
+  {
+    "english": "travel",
+    "vietnamese": "du lịch"
+  },
+  {
+    "english": "nature",
+    "vietnamese": "tự nhiên"
+  },
+  {
+    "english": "animal",
+    "vietnamese": "động vật"
+  },
+  {
+    "english": "plant",
+    "vietnamese": "cây"
+  },
+  {
+    "english": "flower",
+    "vietnamese": "hoa"
+  },
+  {
+    "english": "fruit",
+    "vietnamese": "hoa quả"
+  },
+  {
+    "english": "vegetable",
+    "vietnamese": "rau củ"
+  },
+  {
+    "english": "color",
+    "vietnamese": "màu sắc"
+  },
+  {
+    "english": "red",
+    "vietnamese": "đỏ"
+  },
+  {
+    "english": "blue",
+    "vietnamese": "xanh lam"
+  },
+  {
+    "english": "green",
+    "vietnamese": "xanh lá cây"
+  },
+  {
+    "english": "yellow",
+    "vietnamese": "vàng"
+  },
+  {
+    "english": "black",
+    "vietnamese": "đen"
+  },
+  {
+    "english": "white",
+    "vietnamese": "trắng"
+  },
+  {
+    "english": "gray",
+    "vietnamese": "xám"
+  },
+  {
+    "english": "brown",
+    "vietnamese": "nâu"
+  },
+  {
+    "english": "orange",
+    "vietnamese": "cam"
+  },
+  {
+    "english": "purple",
+    "vietnamese": "tím"
+  },
+  {
+    "english": "health",
+    "vietnamese": "sức khỏe"
+  },
+  {
+    "english": "medicine",
+    "vietnamese": "thuốc"
+  },
+  {
+    "english": "hospital",
+    "vietnamese": "bệnh viện"
+  },
+  {
+    "english": "doctor",
+    "vietnamese": "bác sĩ"
+  },
+  {
+    "english": "nurse",
+    "vietnamese": "y tá"
+  },
+  {
+    "english": "patient",
+    "vietnamese": "bệnh nhân"
+  },
+  {
+    "english": "disease",
+    "vietnamese": "bệnh tật"
+  },
+    {
+      "english": "apple",
+      "vietnamese": "quả táo"
+    },
+    {
+      "english": "banana",
+      "vietnamese": "quả chuối"
+    },
+    {
+      "english": "cat",
+      "vietnamese": "con mèo"
+    },
+    {
+      "english": "dog",
+      "vietnamese": "con chó"
+    },
+    {
+      "english": "bird",
+      "vietnamese": "con chim"
+    },
+    {
+      "english": "fish",
+      "vietnamese": "con cá"
+    },
+    {
+      "english": "book",
+      "vietnamese": "quyển sách"
+    },
+    {
+      "english": "chair",
+      "vietnamese": "cái ghế"
+    },
+    {
+      "english": "table",
+      "vietnamese": "cái bàn"
+    },
+    {
+      "english": "door",
+      "vietnamese": "cái cửa"
+    },
+    {
+      "english": "window",
+      "vietnamese": "cái cửa sổ"
+    },
+    {
+      "english": "key",
+      "vietnamese": "cái chìa khóa"
+    },
+    {
+      "english": "phone",
+      "vietnamese": "điện thoại"
+    },
+    {
+      "english": "computer",
+      "vietnamese": "máy tính"
+    },
+    {
+      "english": "table",
+      "vietnamese": "cái bàn"
+    },
+    {
+      "english": "chair",
+      "vietnamese": "cái ghế"
+    },
+    {
+      "english": "bed",
+      "vietnamese": "cái giường"
+    },
+    {
+      "english": "room",
+      "vietnamese": "phòng"
+    },
+    {
+      "english": "house",
+      "vietnamese": "ngôi nhà"
+    },
+    {
+      "english": "car",
+      "vietnamese": "xe hơi"
+    },
+    {
+      "english": "bike",
+      "vietnamese": "xe đạp"
+    },
+    {
+      "english": "train",
+      "vietnamese": "xe lửa"
+    },
+    {
+      "english": "bus",
+      "vietnamese": "xe buýt"
+    },
+    {
+      "english": "plane",
+      "vietnamese": "máy bay"
+    },
+    {
+      "english": "ship",
+      "vietnamese": "tàu"
+    },
+    {
+      "english": "school",
+      "vietnamese": "trường học"
+    },
+    {
+      "english": "teacher",
+      "vietnamese": "giáo viên"
+    },
+    {
+      "english": "student",
+      "vietnamese": "học sinh"
+    },
+    {
+      "english": "university",
+      "vietnamese": "đại học"
+    },
+    {
+      "english": "hospital",
+      "vietnamese": "bệnh viện"
+    },
+    {
+      "english": "doctor",
+      "vietnamese": "bác sĩ"
+    },
+    {
+      "english": "nurse",
+      "vietnamese": "y tá"
+    },
+    {
+      "english": "patient",
+      "vietnamese": "bệnh nhân"
+    },
+    {
+      "english": "disease",
+      "vietnamese": "bệnh tật"
+    },
+    {
+      "english": "food",
+      "vietnamese": "thức ăn"
+    },
+    {
+      "english": "drink",
+      "vietnamese": "đồ uống"
+    },
+    {
+      "english": "breakfast",
+      "vietnamese": "bữa sáng"
+    },
+    {
+      "english": "lunch",
+      "vietnamese": "bữa trưa"
+    },
+    {
+      "english": "dinner",
+      "vietnamese": "bữa tối"
+    },
+    {
+      "english": "fruit",
+      "vietnamese": "hoa quả"
+    },
+    {
+      "english": "vegetable",
+      "vietnamese": "rau củ"
+    },
+    {
+      "english": "meat",
+      "vietnamese": "thịt"
+    },
+    {
+      "english": "chicken",
+      "vietnamese": "gà"
+    },
+    {
+      "english": "beef",
+      "vietnamese": "thịt bò"
+    },
+    {
+      "english": "pork",
+      "vietnamese": "thịt heo"
+    },
+    {
+      "english": "rice",
+      "vietnamese": "cơm"
+    },
+    {
+      "english": "noodle",
+      "vietnamese": "mì"
+    },
+    {
+      "english": "soup",
+      "vietnamese": "canh"
+    },
+    {
+      "english": "juice",
+      "vietnamese": "nước ép"
+    },
+    {
+      "english": "coffee",
+      "vietnamese": "cà phê"
+    },
+    {
+      "english": "tea",
+      "vietnamese": "trà"
+    },
+    {
+      "english": "water",
+      "vietnamese": "nước"
+    },
+    {
+      "english": "milk",
+      "vietnamese": "sữa"
+    },
+    {
+      "english": "bread",
+      "vietnamese": "bánh mì"
+    },
+    {
+      "english": "butter",
+      "vietnamese": "bơ"
+    },
+    {
+      "english": "cheese",
+      "vietnamese": "pho mát"
+    },
+    {
+      "english": "egg",
+      "vietnamese": "trứng"
+    },
+    {
+      "english": "salt",
+      "vietnamese": "muối"
+    },
+    {
+      "english": "sugar",
+      "vietnamese": "đường"
+    },
+    {
+      "english": "pepper",
+      "vietnamese": "tiêu"
+    },
+    {
+      "english": "knife",
+      "vietnamese": "dao"
+    },
+    {
+      "english": "fork",
+      "vietnamese": "nĩa"
+    },
+    {
+      "english": "spoon",
+      "vietnamese": "thìa"
+    },
+    {
+      "english": "plate",
+      "vietnamese": "đĩa"
+    },
+    {
+      "english": "cup",
+      "vietnamese": "cốc"
+    },
+    {
+      "english": "glass",
+      "vietnamese": "cốc"
+    },
+    {
+      "english": "bowl",
+      "vietnamese": "tô"
+    },
+    {
+      "english": "pot",
+      "vietnamese": "nồi"
+    },
+    {
+      "english": "pan",
+      "vietnamese": "chảo"
+    },
+    {
+      "english": "oven",
+      "vietnamese": "lò nướng"
+    },
+    {
+      "english": "microwave",
+      "vietnamese": "lò vi sóng"
+    },
+
+    {
+      "english": "pen",
+      "vietnamese": "bút"
+    },
+    {
+      "english": "pencil",
+      "vietnamese": "bút chì"
+    },
+    {
+      "english": "paper",
+      "vietnamese": "giấy"
+    },
+    {
+      "english": "notebook",
+      "vietnamese": "quyển vở"
+    },
+    {
+      "english": "ruler",
+      "vietnamese": "thước kẻ"
+    },
+    {
+      "english": "scissors",
+      "vietnamese": "cái kéo"
+    },
+    {
+      "english": "desk",
+      "vietnamese": "bàn làm việc"
+    },
+    {
+      "english": "lamp",
+      "vietnamese": "đèn bàn"
+    },
+    {
+      "english": "clock",
+      "vietnamese": "đồng hồ"
+    },
+    {
+      "english": "picture",
+      "vietnamese": "hình ảnh"
+    },
+    {
+      "english": "flower",
+      "vietnamese": "hoa"
+    },
+    {
+      "english": "tree",
+      "vietnamese": "cây"
+    },
+    {
+      "english": "grass",
+      "vietnamese": "cỏ"
+    },
+    {
+      "english": "river",
+      "vietnamese": "sông"
+    },
+    {
+      "english": "mountain",
+      "vietnamese": "núi"
+    },
+    {
+      "english": "beach",
+      "vietnamese": "bãi biển"
+    },
+    {
+      "english": "sun",
+      "vietnamese": "mặt trời"
+    },
+    {
+      "english": "moon",
+      "vietnamese": "mặt trăng"
+    },
+    {
+      "english": "star",
+      "vietnamese": "ngôi sao"
+    },
+    {
+      "english": "sky",
+      "vietnamese": "bầu trời"
+    },
+    {
+      "english": "cloud",
+      "vietnamese": "mây"
+    },
+    {
+      "english": "rain",
+      "vietnamese": "mưa"
+    },
+    {
+      "english": "snow",
+      "vietnamese": "tuyết"
+    },
+    {
+      "english": "wind",
+      "vietnamese": "gió"
+    },
+    {
+      "english": "fire",
+      "vietnamese": "lửa"
+    },
+    {
+      "english": "earth",
+      "vietnamese": "trái đất"
+    },
+    {
+      "english": "planet",
+      "vietnamese": "hành tinh"
+    },
+    {
+      "english": "galaxy",
+      "vietnamese": "ngân hà"
+    },
+    {
+      "english": "universe",
+      "vietnamese": "vũ trụ"
+    },
+    {
+      "english": "country",
+      "vietnamese": "quốc gia"
+    },
+    {
+      "english": "city",
+      "vietnamese": "thành phố"
+    },
+    {
+      "english": "village",
+      "vietnamese": "ngôi làng"
+    },
+    {
+      "english": "road",
+      "vietnamese": "đường"
+    },
+    {
+      "english": "bridge",
+      "vietnamese": "cầu"
+    },
+    {
+      "english": "building",
+      "vietnamese": "tòa nhà"
+    },
+    {
+      "english": "tower",
+      "vietnamese": "tháp"
+    },
+    {
+      "english": "market",
+      "vietnamese": "chợ"
+    },
+    {
+      "english": "park",
+      "vietnamese": "công viên"
+    },
+    {
+      "english": "garden",
+      "vietnamese": "vườn"
+    },
+    {
+      "english": "forest",
+      "vietnamese": "rừng"
+    },
+    {
+      "english": "jungle",
+      "vietnamese": "rừng nhiệt đới"
+    },
+    {
+      "english": "desert",
+      "vietnamese": "sa mạc"
+    },
+    {
+      "english": "ocean",
+      "vietnamese": "đại dương"
+    },
+{
+  "english": "island",
+  "vietnamese": "đảo"
+},
+{
+  "english": "lake",
+  "vietnamese": "hồ"
+},
+{
+  "english": "pond",
+  "vietnamese": "ao"
+},
+{
+  "english": "house",
+  "vietnamese": "nhà"
+},
+{
+  "english": "home",
+  "vietnamese": "ngôi nhà"
+},
+{
+  "english": "door",
+  "vietnamese": "cửa"
+},
+{
+  "english": "window",
+  "vietnamese": "cửa sổ"
+},
+{
+  "english": "roof",
+  "vietnamese": "mái nhà"
+},
+{
+  "english": "floor",
+  "vietnamese": "sàn nhà"
+},
+{
+  "english": "bed",
+  "vietnamese": "giường"
+},
+{
+  "english": "chair",
+  "vietnamese": "ghế"
+},
+{
+  "english": "table",
+  "vietnamese": "bàn"
+},
+{
+  "english": "cup",
+  "vietnamese": "cốc"
+},
+{
+  "english": "plate",
+  "vietnamese": "đĩa"
+},
+{
+  "english": "fork",
+  "vietnamese": "nĩa"
+},
+{
+  "english": "spoon",
+  "vietnamese": "thìa"
+},
+{
+  "english": "knife",
+  "vietnamese": "dao"
+},
+{
+  "english": "bowl",
+  "vietnamese": "tô"
+},
+{
+  "english": "pot",
+  "vietnamese": "nồi"
+},
+{
+  "english": "pan",
+  "vietnamese": "chảo"
+},
+{
+  "english": "oven",
+  "vietnamese": "lò nướng"
+},
+{
+  "english": "fridge",
+  "vietnamese": "tủ lạnh"
+},
+{
+  "english": "plate",
+  "vietnamese": "đĩa"
+},
+{
+  "english": "cupboard",
+  "vietnamese": "tủ đựng đồ"
+},
+{
+  "english": "book",
+  "vietnamese": "sách"
+},
+{
+  "english": "magazine",
+  "vietnamese": "tạp chí"
+},
+{
+  "english": "newspaper",
+  "vietnamese": "báo"
+},
+{
+  "english": "novel",
+  "vietnamese": "tiểu thuyết"
+},
+{
+  "english": "poem",
+  "vietnamese": "thơ"
+},
+{
+  "english": "story",
+  "vietnamese": "truyện"
+},
+{
+  "english": "music",
+  "vietnamese": "nhạc"
+},
+{
+  "english": "song",
+  "vietnamese": "bài hát"
+},
+{
+  "english": "dance",
+  "vietnamese": "nhảy"
+},
+{
+  "english": "painting",
+  "vietnamese": "bức tranh"
+},
+{
+  "english": "sculpture",
+  "vietnamese": "điêu khắc"
+},
+{
+  "english": "movie",
+  "vietnamese": "phim"
+},
+{
+  "english": "theater",
+  "vietnamese": "rạp hát"
+},
+{
+  "english": "concert",
+  "vietnamese": "buổi hòa nhạc"
+},
+{
+  "english": "guitar",
+  "vietnamese": "đàn ghi-ta"
+},
+{
+  "english": "piano",
+  "vietnamese": "đàn piano"
+},
+{
+  "english": "violin",
+  "vietnamese": "đàn vi-ô-lông"
+},
+{
+  "english": "trumpet",
+  "vietnamese": "kèn trompet"
+},
+{
+  "english": "drum",
+  "vietnamese": "trống"
+},
+{
+  "english": "flute",
+  "vietnamese": "sáo"
+},
+{
+  "english": "camera",
+  "vietnamese": "máy ảnh"
+},
+{
+  "english": "phone",
+  "vietnamese": "điện thoại"
+},
+{
+  "english": "computer",
+  "vietnamese": "máy tính"
+},
+{
+  "english": "television",
+  "vietnamese": "ti vi"
+},
+ {
+      "english": "airplane",
+      "vietnamese": "máy bay"
+    },
+    {
+      "english": "car",
+      "vietnamese": "xe ô tô"
+    },
+    {
+      "english": "train",
+      "vietnamese": "xe lửa"
+    },
+    {
+      "english": "bicycle",
+      "vietnamese": "xe đạp"
+    },
+    {
+      "english": "motorcycle",
+      "vietnamese": "xe máy"
+    },
+    {
+      "english": "boat",
+      "vietnamese": "thuyền"
+    },
+    {
+      "english": "ship",
+      "vietnamese": "tàu"
+    },
+    {
+      "english": "bus",
+      "vietnamese": "xe buýt"
+    },
+    {
+      "english": "taxi",
+      "vietnamese": "xe taxi"
+    },
+    {
+      "english": "subway",
+      "vietnamese": "tàu điện ngầm"
+    },
+    {
+      "english": "helicopter",
+      "vietnamese": "trực thăng"
+    },
+    {
+      "english": "rocket",
+      "vietnamese": "tên lửa"
+    },
+    {
+      "english": "hotel",
+      "vietnamese": "khách sạn"
+    },
+    {
+      "english": "restaurant",
+      "vietnamese": "nhà hàng"
+    },
+    {
+      "english": "cafe",
+      "vietnamese": "quán cà phê"
+    },
+    {
+      "english": "bar",
+      "vietnamese": "quán bar"
+    },
+    {
+      "english": "park",
+      "vietnamese": "công viên"
+    },
+    {
+      "english": "beach",
+      "vietnamese": "bãi biển"
+    },
+    {
+      "english": "museum",
+      "vietnamese": "bảo tàng"
+    },
+    {
+      "english": "library",
+      "vietnamese": "thư viện"
+    },
+    {
+      "english": "school",
+      "vietnamese": "trường học"
+    },
+    {
+      "english": "university",
+      "vietnamese": "đại học"
+    },
+    {
+      "english": "hospital",
+      "vietnamese": "bệnh viện"
+    },
+    {
+      "english": "pharmacy",
+      "vietnamese": "nhà thuốc"
+    },
+    {
+      "english": "bank",
+      "vietnamese": "ngân hàng"
+    },
+    {
+      "english": "post office",
+      "vietnamese": "bưu điện"
+    },
+    {
+      "english": "police",
+      "vietnamese": "cảnh sát"
+    },
+    {
+      "english": "fire station",
+      "vietnamese": "đồn cứu hỏa"
+    },
+    {
+      "english": "market",
+      "vietnamese": "chợ"
+    },
+    {
+      "english": "supermarket",
+      "vietnamese": "siêu thị"
+    },
+    {
+      "english": "store",
+      "vietnamese": "cửa hàng"
+    },
+    {
+      "english": "shop",
+      "vietnamese": "cửa hiệu"
+    },
+    {
+      "english": "mall",
+      "vietnamese": "trung tâm mua sắm"
+    },
+    {
+      "english": "gym",
+      "vietnamese": "phòng tập"
+    },
+    {
+      "english": "swimming pool",
+      "vietnamese": "hồ bơi"
+    },
+    {
+      "english": "park",
+      "vietnamese": "công viên"
+    },
+    {
+      "english": "zoo",
+      "vietnamese": "sở thú"
+    },
+    {
+      "english": "garden",
+      "vietnamese": "vườn"
+    },
+    {
+      "english": "concert",
+      "vietnamese": "buổi hòa nhạc"
+    },
+    {
+      "english": "movie theater",
+      "vietnamese": "rạp chiếu phim"
+    },
+    {
+      "english": "stadium",
+      "vietnamese": "sân vận động"
+    },
+  {
+      "english": "motorway",
+      "vietnamese": "đường cao tốc"
+    },
+    {
+      "english": "van",
+      "vietnamese": "xe bán tải"
+    },
+    {
+      "english": "truck",
+      "vietnamese": "xe tải"
+    },
+    {
+      "english": "metro",
+      "vietnamese": "đường điện ngầm"
+    },
+    {
+      "english": "ferry",
+      "vietnamese": "phà"
+    },
+    {
+      "english": "trolley",
+      "vietnamese": "xe đẩy"
+    },
+    {
+      "english": "motorbike",
+      "vietnamese": "xe máy"
+    },
+    {
+      "english": "scooter",
+      "vietnamese": "xe tay ga"
+    },
+    {
+      "english": "tricycle",
+      "vietnamese": "xe ba bánh"
+    },
+    {
+      "english": "trailer",
+      "vietnamese": "rơ moóc"
+    },
+    {
+      "english": "hostel",
+      "vietnamese": "nhà trọ"
+    },
+    {
+      "english": "inn",
+      "vietnamese": "nhà nghỉ"
+    },
+    {
+      "english": "pub",
+      "vietnamese": "quán rượu"
+    },
+    {
+      "english": "club",
+      "vietnamese": "câu lạc bộ"
+    },
+    {
+      "english": "garden",
+      "vietnamese": "vườn"
+    },
+    {
+      "english": "amusement park",
+      "vietnamese": "công viên giải trí"
+    },
+    {
+      "english": "aquarium",
+      "vietnamese": "viện hàn lâm"
+    },
+    {
+      "english": "bookstore",
+      "vietnamese": "hiệu sách"
+    },
+    {
+      "english": "office",
+      "vietnamese": "văn phòng"
+    },
+    {
+      "english": "factory",
+      "vietnamese": "nhà máy"
+    },
+    {
+      "english": "cafe",
+      "vietnamese": "quán cà phê"
+    },
+    {
+      "english": "bakery",
+      "vietnamese": "tiệm bánh"
+    },
+    {
+      "english": "pharmacy",
+      "vietnamese": "nhà thuốc"
+    },
+    {
+      "english": "post office",
+      "vietnamese": "bưu điện"
+    },
+    {
+      "english": "police station",
+      "vietnamese": "đồn cảnh sát"
+    },
+    {
+      "english": "fire station",
+      "vietnamese": "đồn cứu hỏa"
+    },
+    {
+      "english": "market",
+      "vietnamese": "chợ"
+    },
+    {
+      "english": "shopping mall",
+      "vietnamese": "trung tâm thương mại"
+    },
+    {
+      "english": "boutique",
+      "vietnamese": "cửa hàng thời trang"
+    },
+    {
+      "english": "gym",
+      "vietnamese": "phòng tập"
+    },
+    {
+      "english": "swimming pool",
+      "vietnamese": "hồ bơi"
+    },
+    {
+      "english": "park",
+      "vietnamese": "công viên"
+    },
+    {
+      "english": "zoo",
+      "vietnamese": "sở thú"
+    },
+    {
+      "english": "garden",
+      "vietnamese": "vườn"
+    },
+    {
+      "english": "theater",
+      "vietnamese": "rạp hát"
+    },
+    {
+      "english": "cinema",
+      "vietnamese": "rạp chiếu phim"
+    },
+    {
+      "english": "stadium",
+      "vietnamese": "sân vận động"
+    },
+    {
+      "english": "salon",
+      "vietnamese": "tiệm"
+    },
+    {
+      "english": "spa",
+      "vietnamese": "thẩm mỹ viện"
+    },    {
+      "english": "backpack",
+      "vietnamese": "ba lô"
+    },
+    {
+      "english": "camera",
+      "vietnamese": "máy ảnh"
+    },
+    {
+      "english": "sunscreen",
+      "vietnamese": "kem chống nắng"
+    },
+    {
+      "english": "sunglasses",
+      "vietnamese": "kính râm"
+    },
+    {
+      "english": "umbrella",
+      "vietnamese": "ô"
+    },
+    {
+      "english": "map",
+      "vietnamese": "bản đồ"
+    },
+    {
+      "english": "guidebook",
+      "vietnamese": "sách hướng dẫn"
+    },
+    {
+      "english": "money",
+      "vietnamese": "tiền"
+    },
+    {
+      "english": "credit card",
+      "vietnamese": "thẻ tín dụng"
+    },
+    {
+      "english": "phone",
+      "vietnamese": "điện thoại"
+    },
+    {
+      "english": "charger",
+      "vietnamese": "sạc điện thoại"
+    },
+    {
+      "english": "headphones",
+      "vietnamese": "tai nghe"
+    },
+    {
+      "english": "adapter",
+      "vietnamese": "đầu chuyển đổi"
+    },
+    {
+      "english": "toothbrush",
+      "vietnamese": "bàn chải đánh răng"
+    },
+    {
+      "english": "toothpaste",
+      "vietnamese": "kem đánh răng"
+    },
+    {
+      "english": "soap",
+      "vietnamese": "xà phòng"
+    },
+    {
+      "english": "shampoo",
+      "vietnamese": "dầu gội"
+    },
+    {
+      "english": "conditioner",
+      "vietnamese": "dầu xả"
+    },
+    {
+      "english": "towel",
+      "vietnamese": "khăn tắm"
+    },
+    {
+      "english": "toilet paper",
+      "vietnamese": "giấy vệ sinh"
+    },
+    {
+      "english": "medicine",
+      "vietnamese": "thuốc"
+    },
+    {
+      "english": "first aid kit",
+      "vietnamese": "hộp cứu thương"
+    },
+    {
+      "english": "bandage",
+      "vietnamese": "băng cá nhân"
+    },
+    {
+      "english": "insect repellent",
+      "vietnamese": "chất chống côn trùng"
+    },
+    {
+      "english": "mosquito net",
+      "vietnamese": "màn chống muỗi"
+    },
+    {
+      "english": "passport",
+      "vietnamese": "hộ chiếu"
+    },
+    {
+      "english": "visa",
+      "vietnamese": "visa"
+    },
+    {
+      "english": "boarding pass",
+      "vietnamese": "thẻ lên máy bay"
+    },
+    {
+      "english": "luggage",
+      "vietnamese": "hành lý"
+    },
+    {
+      "english": "suitcase",
+      "vietnamese": "vali"
+    },
+    {
+      "english": "backpack",
+      "vietnamese": "ba lô"
+    },
+    {
+      "english": "carry-on",
+      "vietnamese": "hành lý xách tay"
+    },
+    {
+      "english": "checked bag",
+      "vietnamese": "hành lý ký gửi"
+    },
+    {
+      "english": "hotel",
+      "vietnamese": "khách sạn"
+    },
+    {
+      "english": "reservation",
+      "vietnamese": "đặt phòng"
+    },
+    {
+      "english": "reception",
+      "vietnamese": "quầy lễ tân"
+    },
+    {
+      "english": "room key",
+      "vietnamese": "chìa khóa phòng"
+    },
+    {
+      "english": "bellhop",
+      "vietnamese": "thu ngân"
+    },
+    {
+      "english": "concierge",
+      "vietnamese": "lễ tân"
+    }
+ 
+]

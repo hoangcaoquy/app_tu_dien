@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.fragment_home"
+    android:orientation="vertical"
+    android:layout_margin="20dp">
+
+    <!-- TODO: Update blank fragment layout -->
+    <EditText
+        android:layout_margin="30dp"
+        android:id="@+id/edtTienganh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Nhập từ tiếng anh cần tìm :"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_marginLeft="50dp"
+            android:id="@+id/btnThem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thêm"
+            tools:layout_editor_absoluteX="275dp"
+            tools:layout_editor_absoluteY="114dp" />
+        <Button
+            android:layout_marginLeft="70dp"
+            android:id="@+id/btnTra"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tra"
+            tools:layout_editor_absoluteX="275dp"
+            tools:layout_editor_absoluteY="114dp" />
+    </LinearLayout>
+
+
+
+    <TextView
+        android:layout_margin="30dp"
+        android:id="@+id/txtKetqua"
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:text="Kết quả :"
+        />
+    <TextView
+        android:paddingLeft="30dp"
+        android:layout_margin="10dp"
+        android:layout_marginBottom="10dp"
+        android:textSize="18dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lịch sử "></TextView>
+
+    <ListView
+
+        android:id="@+id/lvLichsu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></ListView>
+
+
+
+
+</LinearLayout>
